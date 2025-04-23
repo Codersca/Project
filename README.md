@@ -16,4 +16,4 @@ A simple online banking application using javafx and MySQL
 [Setup](setup)
 
 # Video   
-https://user-images.githubusercontent.com/83073238/210116304-63fb4075-62a2-4d20-abbc-7984c26d432d.mp4
+
